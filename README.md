@@ -5,6 +5,8 @@
 
 It is a public api btw
 
+<a href="https://6117660b03e9ff601e21f0b9--quizzical-williams-b17b93.netlify.app/">Live demo</a>
+
 #### Cool thing to notice
 
 Implemented a kind of 'caching' system with localStorage, that prevents the application for making several requests looking for the same data;
